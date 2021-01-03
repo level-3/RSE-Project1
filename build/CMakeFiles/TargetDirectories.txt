@@ -1,3 +1,0 @@
-/home/level-3/Project1/build/CMakeFiles/rebuild_cache.dir
-/home/level-3/Project1/build/CMakeFiles/hello_apartment.dir
-/home/level-3/Project1/build/CMakeFiles/edit_cache.dir
